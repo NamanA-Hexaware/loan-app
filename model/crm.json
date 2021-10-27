@@ -1,0 +1,22 @@
+[
+    {
+        "email": "crm1@123",
+        "name": "abc",
+        "password": "crm1"
+    },
+    {
+        "email": "crm2@123",
+        "name": "def",
+        "password": "crm2"
+    },
+    {
+        "email": "crm3@123",
+        "name": "ghi",
+        "password": "crm3"
+    },
+    {
+        "email": "crm4@123",
+        "name": "jkl",
+        "password": "crm4"
+    }
+]
